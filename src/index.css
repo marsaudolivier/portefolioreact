@@ -15,8 +15,13 @@ h1{
   font-family: 'Roboto', sans-serif;
   font-size: 50px;
   text-transform: uppercase;
-
   margin: auto;
+}
+h2{
+  color: #6FC19A;
+  font-family: 'Roboto', sans-serif;
+  font-size: 55px;
+  text-transform: uppercase;
 }
 .navigate{
   background-color: #333333;
@@ -39,14 +44,101 @@ li{
   font-size: 20px;
 }
 .nav a:hover{
-  color: #06c069;
+  color: #6FC19A;
   box-shadow: #6FC19A 0px 0px 10px;
   transition: 0.5s;
 }
 .footer_contact{
-  color: #06c069;
+  color: #6FC19A;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
+}
+
+.container_QuiSuisJe{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+}
+.container_photo {
+  display: flex; 
+  align-items: center; 
+  text-align: center; 
+}
+.container_photo p {
+  max-width: 700px; 
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px;
+  color: #6FC19A;
+}
+.photo{
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  margin: 20px;
+  box-shadow: #6FC19A 5px 0px 20px;
+}
+.skill_image{
+  width: 100px;
+  height: auto;
+  margin: 35px;
+}
+.skill_title{
+  color: #6FC19A;
+  font-size: 55px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+.skills{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 35px;
+  text-transform: uppercase;
+}
+.skills_logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  color: #6FC19A;
+}
+.project_img{
+  width: 300px;
+  height: auto;
+}
+.projects_container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 35px;
+  color: #6FC19A;
+}
+.section_title{
+  color: #6FC19A;
+  font-size: 55px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 35px;
+  text-align: center;
+}
+.project{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: #6FC19A 5px 0px 20px;
+  border-radius: 10px;
+  background-color: #333333;
+  width: 300px;
+  height: 300px;
 }

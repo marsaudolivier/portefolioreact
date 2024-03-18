@@ -1,6 +1,6 @@
 import React from "react";
 
-const Footer = () => {
+const Foot = () => {
   return (
     <footer>
     <nav className="navigate">
@@ -21,4 +21,4 @@ const Footer = () => {
             
 
 
-export default Footer;
+export default Foot;

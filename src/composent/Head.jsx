@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header = () => {
+const Head = () => {
   return (
     <nav className="navigate">
         <div className="container">
@@ -12,11 +12,14 @@ const Header = () => {
         </div>
       <div className="menu-bar">
         <ul className="nav " id="nav">
-          <li>
-            <a href="#skills">Compétences</a>
+        <li>
+            <a href="./">Qui Suis-je?</a>
           </li>
           <li>
-            <a href="#project">Projets</a>
+            <a href="/compétences">Compétences</a>
+          </li>
+          <li>
+            <a href="/projets">Projets</a>
           </li>
           <li>
             <a href="#Services">Services</a>
@@ -30,4 +33,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Head;
