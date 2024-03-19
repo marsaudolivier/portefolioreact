@@ -3,38 +3,44 @@ import React from "react";
 const Card = () => {
   // project Vparro 1
   const redirectToProject1 = () => {
-    window.location.href = "https://marsaudolivier.alwaysdata.net/par";
+    window.open("https://marsaudolivier.alwaysdata.net/par", "_blank");
   };
   const redirectToGithub1 = () => {
-    window.location.href = "https://github.com/marsaudolivier/ECF_MarsaudOlivier";
+    window.open(
+      "https://github.com/marsaudolivier/ECF_MarsaudOlivier",
+      "_blank"
+    );
   };
- // project Vparro 2
+  // project Vparro 2
   const redirectToProject2 = () => {
-    window.location.href =
-      "https://ecfparrotv2-3bphjzfh5-marsaudoliviers-projects.vercel.app/";
+    window.open("https://ecfparrotv2.vercel.app/", "_blank");
   };
   const redirectToGithub2 = () => {
     window.open("https://github.com/marsaudolivier/ParrotV2_Front");
   };
   const redirectToGithub21 = () => {
     window.open("https://github.com/marsaudolivier/ParrotV2_Back_Node");
-  }
+  };
   // project Association
   const redirectToProject3 = () => {
-    window.location.href = "http://marsaudolivier.me/Juste-un-coup-de-patte/";
+    window.open("http://marsaudolivier.me/Juste-un-coup-de-patte/");
   };
   const redirectToGithub3 = () => {
-    window.location.href = "https://github.com/marsaudolivier/Juste-un-coup-de-patte";
+    window.open("https://github.com/marsaudolivier/Juste-un-coup-de-patte");
   };
   // project jeux de dé
   const redirectToProject4 = () => {
-    window.location.href = "http://marsaudolivier.me/Evaluation-JS-Jeux-de-d-/";
+    window.open("http://marsaudolivier.me/Evaluation-JS-Jeux-de-d-/");
   };
   const redirectToGithub4 = () => {
-    window.location.href = "https://github.com/marsaudolivier/Evaluation-JS-Jeux-de-d-";
-  }
-
-
+    window.open("https://github.com/marsaudolivier/Evaluation-JS-Jeux-de-d-");
+  };
+  //sandrine coupart
+  const redirectToGithub5 = () => {
+    window.open(
+      "  https://github.com/marsaudolivier/ECF_Entrainement_SandrineCoupart"
+    );
+  };
   return (
     <section className="projects">
       <div className="container">
@@ -143,6 +149,24 @@ const Card = () => {
               className="card_btn"
               type="button"
               onClick={redirectToGithub4}
+            >
+              voir le Github
+            </button>
+          </div>
+          <div className="project">
+            <img
+              src="assets/images/sandrine.png"
+              alt="Association Juste un coup de Pate"
+              className="project_img"
+            />
+            <h3 className="project_title">Sandrine Coupart</h3>
+            <p className="project_description">
+              Site d'une diététicienne Sandrine Coupart
+            </p>
+            <button
+              className="card_btn"
+              type="button"
+              onClick={redirectToGithub5}
             >
               voir le Github
             </button>
