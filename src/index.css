@@ -140,5 +140,25 @@ li{
   border-radius: 10px;
   background-color: #333333;
   width: 300px;
-  height: 300px;
+  height: 450px;
 }
+
+.card_btn{
+  background-color: #6FC19A;
+  color: #1b1b1b;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.5s;
+}
+.card_btn:hover{
+  background-color: #1b1b1b;
+  color: #6FC19A;
+  box-shadow: #6FC19A 0px 0px 10px;
+  transition: 0.5s;
+}
+
