@@ -55,13 +55,16 @@ li{
   align-items: center;
   padding: 20px;
 }
-
-.container_QuiSuisJe{
+.container_QuiSuisJe_title{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  height: 75vh;
+}
+.container_QuiSuisJe{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 .container_photo {
   display: flex; 
@@ -69,15 +72,15 @@ li{
   text-align: center; 
 }
 .container_photo p {
-  max-width: 700px; 
+  max-width: 1250px; 
   font-weight: bold;
   font-size: 20px;
   margin: 20px;
   color: #6FC19A;
 }
 .photo{
-  width: 250px;
-  height: auto;
+  width: auto;
+  height: 500px;
   border-radius: 50%;
   margin: 20px;
   box-shadow: #6FC19A 5px 0px 20px;
