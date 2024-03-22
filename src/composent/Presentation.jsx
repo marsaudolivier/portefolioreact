@@ -6,11 +6,7 @@ const Presentation = () => {
       <div className="container_gris">
         <h2 className="container_QuiSuisJe_title">Pourquoi choisir MODEV ?</h2>
         <div className="container_QuiSuisJe">
-        <img
-            src="assets/images/logo.svg"
-            className="photo1"
-            alt="Photo de moi "
-          />
+      
           <div className="container_photo">
             <p>
               Chez MODEV , je crois fermement que chaque client est unique, tout
@@ -48,7 +44,11 @@ const Presentation = () => {
               votre vision en ligne et vous offrir une expérience exceptionnelle
               à chaque étape du processus.
             </p>
-          </div>
+          </div>  <img
+            src="assets/images/logo.svg"
+            className="photo1"
+            alt="Photo de moi "
+          />
         </div>{" "}
       </div>
     </>

@@ -12,18 +12,11 @@ const Head = () => {
       </div>
       <div className="menu-bar">
         <ul className="nav " id="nav">
+
           <li>
-            <a href="./">Qui Suis-je?</a>
-          </li>{" "}
-          <li>
-            <a href="/services">Mes Services</a>
+            <a href="/projets">Voir mes projets</a>
           </li>
-          <li>
-            <a href="/projets">Mes projets</a>
-          </li>
-          <li>
-            <a href="#contact">Prendre contact avec moi</a>
-          </li>
+      
         </ul>
       </div>
     </nav>

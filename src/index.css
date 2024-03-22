@@ -1,8 +1,4 @@
-.logo{
-  margin-top: 25px;
-  width: 250px;
-  height: auto;
-}
+
 a{
   text-decoration: none;
 }
@@ -24,6 +20,16 @@ h3{
   letter-spacing: .15em;
   text-align: center;
 }
+h4{
+  color: #6FC19A;
+  font-size: 20px;
+}
+h5{
+  color: #6FC19A;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
 
 .navigate{
   background-color: #333333;
@@ -87,12 +93,26 @@ li{
   margin: 20px;
   box-shadow: #6FC19A 5px 0px 20px;
 }
+.photo:hover{
+  box-shadow: #6FC19A 0px 0px 10px;
+  transition: 0.5s;
+}
 .photo1{
   width: auto;
   height: 400px;
   border-radius: 50%;
   box-shadow: #6FC19A 5px 0px 20px;
   margin: auto;
+}
+.photo2{
+  width: auto;
+  height: 200px;
+  border-radius: 50%;
+  margin: auto;
+}
+.photo1:hover{
+  box-shadow: #6FC19A 0px 0px 10px;
+  transition: 0.5s;
 }
 
 .skill_image{
@@ -135,6 +155,11 @@ li{
   padding: 35px;
   color: #6FC19A;
 }
+.Service_container{
+  display: flex;
+  flex-direction: row;
+  color: #6FC19A;
+}
 .section_title{
   color: #6FC19A;
   font-size: 55px;
@@ -154,6 +179,28 @@ li{
   background-color: #4E3F2E;
   width: 300px;
   height: 470px;
+}
+.Services{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  box-shadow: #6FC19A 5px 0px 20px;
+  border-radius: 10px;
+  background-color: #1b1b1b;
+  width: 300px;
+  height: 900px;
+}
+.Services_mesure{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  box-shadow: #6FC19A 5px 0px 20px;
+  border-radius: 10px;
+  background-color: #1b1b1b;
+  width: 300px;
+  height: 350px;
 }
 
 .card_btn{
@@ -179,3 +226,42 @@ li{
   background-color: #4E3F2E;
   padding: 20px; 
 }
+.Service{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #6FC19A;
+}
+.Service_1{
+  background-color: #4E3F2E;
+}
+
+li{
+  list-style: circle;
+  text-align: center;
+  font-size: 20px;
+  width: 90%;
+  margin: 10px;
+}
+.contact{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  color: #6FC19A;
+}
+.contact_texte{
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  margin: auto;
+  color: #6FC19A;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+
+
+
+

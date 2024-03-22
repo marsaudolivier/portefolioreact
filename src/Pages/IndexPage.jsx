@@ -7,6 +7,8 @@ import SkillPresta from "../composent/SkillPresta";
 import SkillNode from "../composent/SkillNode";
 import Presentation from "../composent/Presentation";
 import Techno from "../composent/Techno";
+import Service from "../composent/Service";
+import Mecontact from "../composent/contact";
 
 
 
@@ -22,6 +24,8 @@ export default function IndexPage() {
     <SkillWp />
     <SkillPresta />
     <SkillNode />
+    <Service />
+    <Mecontact />
     <Foot />
 
 

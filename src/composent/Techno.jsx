@@ -8,6 +8,11 @@ const Techno = () => {
           Ici pour vous aidé a faire le meilleurs choix
         </h2>
         <div className="container_QuiSuisJe">
+        <img
+            src="assets/images/logo.svg"
+            className="photo1"
+            alt="Photo de moi "
+          />
           <div className="container_photo">
             <p>
               Lorsqu'il s'agit de choisir la technologie pour votre projet de
@@ -54,11 +59,7 @@ const Techno = () => {
               en réalisant pleinement vos objectifs en ligne.
               <br /> <br />
             </p>
-          </div>   <img
-            src="assets/images/logo.svg"
-            className="photo1"
-            alt="Photo de moi "
-          />
+          </div>   
         </div>{" "}
       </div>
     </>

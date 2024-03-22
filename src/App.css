@@ -21,7 +21,7 @@ h1 {
   font-weight: 600;
   font-style: normal;
 }
-h2 {
+h2,h4{
       font-family: "Rasa", serif;
       font-optical-sizing: auto;
       font-weight: 400;
