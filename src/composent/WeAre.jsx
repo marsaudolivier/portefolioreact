@@ -4,7 +4,7 @@ const WeAre = () => {
   return (
     <>
       <div>
-        <h2 className="container_QuiSuisJe_title">Qui suis-je?</h2>
+        <h2 className="container_QuiSuisJe_title ">Qui suis-je?</h2>
         <div className="container_QuiSuisJe">
           <img
             src="assets/images/f355db17e39fa75da28608a4b9b5cdc5e5247e69.jpg"
@@ -14,20 +14,20 @@ const WeAre = () => {
           <div className="container_photo">
             <p>
               Bienvenue sur le site d'Olivier Marsaud, votre partenaire de
-              confiance pour le développement web sur mesure. <br />   <br />Passionné
+              confiance pour le développement web sur mesure. <br />   Passionné
               par la création digitale et fort de plusieurs années d'expérience,
               je suis là pour vous accompagner dans la réalisation de vos
-              projets en ligne.  <br />   <br />Je suis spécialisé dans le développement de
+              projets en ligne.  <br />   Je suis spécialisé dans le développement de
               sites web pour les entreprises, en mettant l'accent sur la
-              qualité, la performance et la satisfaction client.  <br />  <br /> Que vous soyez
+              qualité, la performance et la satisfaction client.  <br />   Que vous soyez
               une petite entreprise, un commerçant ou un entrepreneur, je suis
               là pour donner vie à vos idées et vous aider à atteindre vos
-              objectifs en ligne.   <br />  <br />Mes services incluent la création de sites web
+              objectifs en ligne.   <br />  Mes services incluent la création de sites web
               sur mesure en utilisant les technologies les plus récentes telles
               que React, Node.js et Symfony, assurant ainsi des sites modernes,
-              réactifs et évolutifs.   <br />  <br />De la conception à la mise en ligne, je
+              réactifs et évolutifs.   <br />  De la conception à la mise en ligne, je
               m'engage à vous fournir un site web qui correspond parfaitement à
-              vos besoins et à l'image de votre entreprise.  <br />  <br /> En outre, je propose
+              vos besoins et à l'image de votre entreprise.  <br />   En outre, je propose
               également des solutions basées sur des plateformes CMS populaires
               telles que WordPress et PrestaShop, idéales pour les entreprises
               cherchant à gérer leur contenu de manière efficace et intuitive,

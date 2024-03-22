@@ -3,7 +3,7 @@ import React from "react";
 const SkillPresta = () => {
   return (
     <>
-      <div>
+      <div className="container_gris">
         <h2 className="container_QuiSuisJe_title">
           Pourquoi choisir PrestaShop pour votre boutique en ligne ?
         </h2>

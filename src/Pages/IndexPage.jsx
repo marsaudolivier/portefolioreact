@@ -4,6 +4,9 @@ import Foot from "../composent/Foot";
 import Skillreact from "../composent/Skillreact";
 import SkillWp from "../composent/SkillWp";
 import SkillPresta from "../composent/SkillPresta";
+import SkillNode from "../composent/SkillNode";
+import Presentation from "../composent/Presentation";
+import Techno from "../composent/Techno";
 
 
 
@@ -13,9 +16,12 @@ export default function IndexPage() {
     <>
     <Header />
     <WeAre />
+    <Presentation />
+    <Techno />
     <Skillreact />
     <SkillWp />
     <SkillPresta />
+    <SkillNode />
     <Foot />
 
 

@@ -3,7 +3,7 @@ import React from "react";
 const Skillreact = () => {
   return (
     <>
-      <div>
+      <div className="container_gris">
         <h2 className="container_QuiSuisJe_title">
           Pourquoi choisir React pour votre site web ?
         </h2>

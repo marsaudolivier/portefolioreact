@@ -11,10 +11,31 @@ body{
 }
 h1{
     color: #6FC19A;
-    font-family: 'Roboto', sans-serif;
-    font-size: 50px;
     text-transform: uppercase;
     padding-left: 40px;
     margin: auto;
 }
-
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+h2 {
+      font-family: "Rasa", serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+  }
+h3{
+        font-family: "Rasa", serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+  }
+p {
+    font-family: "Caudex", serif;
+}
+button {
+    font-family: "Caudex", serif;
+}
