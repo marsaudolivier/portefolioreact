@@ -21,7 +21,7 @@ const contact = () => {
             <br />
             <strong>Email :</strong>{" "}
             <a href="mailto:marsaudolivier@gmail.com?subject=Demande de contact depuis le site MODEV&body=Bonjour Olivier, ">
-              Contacter moi: <br /> par mail
+              Contacter moi: <br /> marsaudolivier@gmail.com
             </a>
             <br />
             <strong>Linkedin :</strong>{" "}
