@@ -68,7 +68,7 @@ const Service = () => {
             <ul>
               <li>Charte graphique personnaliser</li>
               <li>Proposition de logo</li>
-              <li>Domaine + hébergement pendant 12 mois</li>
+              <li>Domaine & hébergement 12 mois</li>
               <li>Interface administrateur sur mesure</li>
               <li>
                 Site Responsive <br /> (Adapté pour tous supports)
@@ -76,7 +76,7 @@ const Service = () => {
               <li>
                 Mise en place du contenu <br /> (Support fournis par vos soin)
               </li>
-              <li>Formulaire de contact & Map </li>
+              <li>Formulaire de contact</li>
               <li>Mise en place des lien réseaux sociaux</li>
               <li>Optimisation du référencement (SEO)</li>
               <li>Mise en ligne du site</li>
