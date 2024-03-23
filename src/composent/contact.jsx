@@ -16,12 +16,12 @@ const contact = () => {
             79700 Moulins
             <br />
             <br />
-            <strong>Téléphone :</strong>{" "}
-            <a href="tel:0658083790">Par téléphone au <br /> 06-58-08-37-90</a>
+            <strong>Téléphone : </strong>{" "}
+            <a href="tel:0658083790">Par téléphone au <br /> 06.58.08.37.90</a>
             <br />
             <strong>Email :</strong>{" "}
             <a href="mailto:marsaudolivier@gmail.com?subject=Demande de contact depuis le site MODEV&body=Bonjour Olivier, ">
-              Contacter moi: <br /> marsaudolivier@gmail.com
+              Contacter moi :  <br /> marsaudolivier@gmail.com
             </a>
             <br />
             <strong>Linkedin :</strong>{" "}
