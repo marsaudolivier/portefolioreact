@@ -197,6 +197,15 @@ nav ul li {
   width: 300px;
   height: 930px;
 }
+.Services:hover{
+  box-shadow: #6fc19a 0px 0px 10px;
+  transition: 0.5s;
+}
+.Services_mesure:hover{
+  box-shadow: #6fc19a 0px 0px 10px;
+  transition: 0.5s;
+
+}
 .Services_mesure {
   display: flex;
   flex-direction: column;
