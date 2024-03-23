@@ -43,7 +43,7 @@ h5{
   justify-content: space-around;
   align-items: center;
 }
-li{
+nav ul li{
   list-style: none;
 }
 .nav a {
@@ -309,6 +309,12 @@ li{
       }
       .test{
         order: -1; 
+      }
+      .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
       }
 }
 @media screen and (max-width: 1260px){
