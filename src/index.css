@@ -35,9 +35,17 @@ h5 {
   display: flex;
 }
 .nav {
+  background-color: #333333;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
+}
+.footer_copy{
+  background-color: #333333;
+  color: #6fc19a;
+  display: flex;
+  flex-direction: column;
   align-items: center;
 }
 nav ul li {
@@ -258,6 +266,10 @@ li {
 }
 .pad {
   padding: 20px;
+}
+.Mentions{
+  padding: 20px;
+  color: #6fc19a;
 }
 /* ajout média query */
 @media screen and (max-width: 766px) {
