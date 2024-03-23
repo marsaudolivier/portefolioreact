@@ -89,7 +89,8 @@ const Service = () => {
            <div className="Services_mesure">
             <div className="Service">
               <h3>Service sur mesure</h3>
-              <h2>300€/h</h2>
+              <h2>300€/J
+              </h2>
             </div>
             <p>
               Service personalisé/ <br /> Développement sur mesure <br /> (Tarif
@@ -123,7 +124,7 @@ const Service = () => {
           applicable.{" "}
         </h5>
         <h5 className="container_QuiSuisJe_title">
-          **Calcul fait pour 2 heures de travails mensuelles sur votre sites.{" "}
+          **Soit 30 Heures disponibles pour la maintenance de votre site Web.{" "}
         </h5>
       </div>
     </>
