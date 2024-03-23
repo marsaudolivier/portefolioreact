@@ -1,134 +1,130 @@
-
-a{
+a {
   text-decoration: none;
 }
 
-h1{
-  color: #6FC19A;
+h1 {
+  color: #6fc19a;
   font-size: 50px;
   text-transform: uppercase;
   margin: auto;
 }
-h2{
-  color: #6FC19A;
+h2 {
+  color: #6fc19a;
   font-size: 55px;
   text-transform: uppercase;
 }
-h3{
-  color: #6FC19A;
+h3 {
+  color: #6fc19a;
   font-size: 25px;
-  letter-spacing: .15em;
+  letter-spacing: 0.15em;
   text-align: center;
 }
-h4{
-  color: #6FC19A;
+h4 {
+  color: #6fc19a;
   font-size: 20px;
 }
-h5{
-  color: #6FC19A;
+h5 {
+  color: #6fc19a;
   font-size: 20px;
   text-transform: uppercase;
 }
-
-
-.navigate{
+.navigate {
   background-color: #333333;
 }
-.container{
+.container {
   display: flex;
 }
-.nav{
+.nav {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
 }
-nav ul li{
+nav ul li {
   list-style: none;
 }
 .nav a {
-  color: #6FC19A; 
+  color: #6fc19a;
   text-decoration: none;
   font-size: 20px;
 }
-.nav a:hover{
-  color: #6FC19A;
-  box-shadow: #6FC19A 0px 0px 10px;
+.nav a:hover {
+  color: #6fc19a;
+  box-shadow: #6fc19a 0px 0px 10px;
   transition: 0.5s;
 }
-.footer_contact{
-  color: #6FC19A;
+.footer_contact {
+  color: #6fc19a;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
 }
-.container_QuiSuisJe_title{
+.container_QuiSuisJe_title {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
-.container_QuiSuisJe{
+.container_QuiSuisJe {
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
 
 .container_photo {
-  display: flex; 
-  align-items: center; 
-  text-align: center; 
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
 .container_photo p {
-  max-width: 1250px; 
+  max-width: 1250px;
   font-weight: bold;
   font-size: 20px;
   margin: 20px;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.photo{
+.photo {
   width: auto;
   height: 500px;
   border-radius: 50%;
   margin: 20px;
-  box-shadow: #6FC19A 5px 0px 20px;
+  box-shadow: #6fc19a 5px 0px 20px;
 }
-.photo:hover{
-  box-shadow: #6FC19A 0px 0px 10px;
+.photo:hover {
+  box-shadow: #6fc19a 0px 0px 10px;
   transition: 0.5s;
 }
-.photo1{
+.photo1 {
   width: auto;
   height: 400px;
   border-radius: 50%;
-  box-shadow: #6FC19A 5px 0px 20px;
+  box-shadow: #6fc19a 5px 0px 20px;
   margin: auto;
 }
-.photo2{
+.photo2 {
   width: auto;
   height: 200px;
   border-radius: 50%;
   margin: auto;
 }
-.photo1:hover{
-  box-shadow: #6FC19A 0px 0px 10px;
+.photo1:hover {
+  box-shadow: #6fc19a 0px 0px 10px;
   transition: 0.5s;
 }
 
-.skill_image{
+.skill_image {
   width: 100px;
   height: auto;
   margin: 35px;
 }
-.skill_title{
-  color: #6FC19A;
+.skill_title {
+  color: #6fc19a;
   font-size: 55px;
   font-weight: bold;
   text-transform: uppercase;
-
 }
-.skills{
+.skills {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -136,76 +132,76 @@ nav ul li{
   padding: 35px;
   text-transform: uppercase;
 }
-.skills_logo{
+.skills_logo {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 20px;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.project_img{
+.project_img {
   width: 300px;
   height: auto;
 }
-.projects_container{
+.projects_container {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
   padding: 35px;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.Service_container{
+.Service_container {
   display: flex;
   flex-direction: row;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.section_title{
-  color: #6FC19A;
+.section_title {
+  color: #6fc19a;
   font-size: 55px;
   font-weight: bold;
   text-transform: uppercase;
   margin: 35px;
   text-align: center;
 }
-.project{
+.project {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 20px;
   padding: 20px;
-  box-shadow: #6FC19A 5px 0px 20px;
+  box-shadow: #6fc19a 5px 0px 20px;
   border-radius: 10px;
-  background-color: #4E3F2E;
+  background-color: #4e3f2e;
   width: 300px;
   height: 470px;
 }
-.Services{
+.Services {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: auto;
-  box-shadow: #6FC19A 5px 0px 20px;
+  box-shadow: #6fc19a 5px 0px 20px;
   border-radius: 10px;
   background-color: #1b1b1b;
   width: 300px;
   height: 900px;
 }
-.Services_mesure{
+.Services_mesure {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: auto;
-  box-shadow: #6FC19A 5px 0px 20px;
+  box-shadow: #6fc19a 5px 0px 20px;
   border-radius: 10px;
   background-color: #1b1b1b;
   width: 300px;
   height: 400px;
 }
 
-.card_btn{
-  background-color: #CED2D2;
+.card_btn {
+  background-color: #ced2d2;
   color: #1b1b1b;
   padding: 5px;
   border-radius: 10px;
@@ -216,143 +212,140 @@ nav ul li{
   font-size: 20px;
   transition: 0.5s;
 }
-.card_btn:hover{
+.card_btn:hover {
   background-color: #1b1b1b;
-  color: #6FC19A;
-  box-shadow: #6FC19A 0px 0px 10px;
+  color: #6fc19a;
+  box-shadow: #6fc19a 0px 0px 10px;
   transition: 0.5s;
 }
 
-.container_gris{
-  background-color: #4E3F2E;
-  padding: 20px; 
+.container_gris {
+  background-color: #4e3f2e;
+  padding: 20px;
 }
-.Service{
+.Service {
   display: flex;
   flex-direction: row;
   align-items: center;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.Service_1{
-  background-color: #4E3F2E;
+.Service_1 {
+  background-color: #4e3f2e;
 }
 
-li{
+li {
   list-style: circle;
   text-align: center;
   font-size: 20px;
   width: 90%;
   margin: 10px;
 }
-.contact{
+.contact {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  color: #6FC19A;
+  color: #6fc19a;
 }
-.contact_texte{
+.contact_texte {
   display: flex;
   flex-direction: column;
   padding: 50px;
   margin: auto;
-  color: #6FC19A;
+  color: #6fc19a;
   font-size: 30px;
   text-align: center;
 }
-.pad{
+.pad {
   padding: 20px;
 }
 /* ajout média query */
-@media screen and (max-width: 766px){
-  .container_QuiSuisJe{
-   display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-  }
-  .photo{
-    width: 25%;
-    height: 25%;
-  }
-  p {
-    font-size: 16px!important;
-  }
-  .photo1{
-    width: 25%;
-    height: 25%;
-  }
-  .photo2{
-    display: none;
-      }
-      .container_gris{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-      }
-      .container_QuiSuisJe_title{
-        text-align: center;
-      }
-      h2{
-        font-size: 30px;
-      }
-      .Service_container{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-      }
-      .Services{
-        margin: 20px;
-      }
-      .test{
-        order: -1; 
-      }
-      .container{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-      }
-}
-@media screen and (max-width: 1260px){
-  .photo{
-    width: 25%;
-    height: 25%;
-  }
-  p {
-    font-size: 16px!important;
-  }
-  .photo1{
-    width: 25%;
-    height: 25%;;
-  }
-  .photo2{
-    display: none;
-  }
-  .container_gris{
+@media screen and (max-width: 766px) {
+  .container_QuiSuisJe {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .container_QuiSuisJe_title{
+  .photo {
+    width: 25%;
+    height: 25%;
+  }
+  p {
+    font-size: 16px !important;
+  }
+  .photo1 {
+    width: 25%;
+    height: 25%;
+  }
+  .photo2 {
+    display: none;
+  }
+  .container_gris {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .container_QuiSuisJe_title {
     text-align: center;
   }
-  .Service_container{
+  h2 {
+    font-size: 30px;
+  }
+  .Service_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .Services {
+    margin: 20px;
+  }
+  .test {
+    order: -1;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 1260px) {
+  .photo {
+    width: 25%;
+    height: 25%;
+  }
+  p {
+    font-size: 16px !important;
+  }
+  .photo1 {
+    width: 25%;
+    height: 25%;
+  }
+  .photo2 {
+    display: none;
+  }
+  .container_gris {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .container_QuiSuisJe_title {
+    text-align: center;
+  }
+  .Service_container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
   }
-      .Services{
-        margin: 20px;
-      }
+  .Services {
+    margin: 20px;
   }
-
-
-
-
-
+}
