@@ -10,7 +10,7 @@ const SkillWp = () => {
         <div className="container_QuiSuisJe">
           <img
             src="assets/images/wordpress-icon.svg"
-            className="photo"
+            className="photo1"
             alt="Photo de moi "
           />
           <div className="container_photo">

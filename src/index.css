@@ -264,21 +264,87 @@ li{
   padding: 20px;
 }
 /* ajout média query */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 766px){
   .container_QuiSuisJe{
-    flex-direction: row;
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
   }
   .photo{
     width: 25%;
     height: 25%;
+  }
+  p {
+    font-size: 16px!important;
+  }
+  .photo1{
+    width: 25%;
+    height: 25%;
+  }
+  .photo2{
+    display: none;
+      }
+      .container_gris{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .container_QuiSuisJe_title{
+        text-align: center;
+      }
+      h2{
+        font-size: 30px;
+      }
+      .Service_container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .Services{
+        margin: 20px;
+      }
+      .test{
+        order: -1; 
+      }
+}
+@media screen and (max-width: 1260px){
+  .photo{
+    width: 25%;
+    height: 25%;
+  }
+  p {
+    font-size: 16px!important;
+  }
+  .photo1{
+    width: 25%;
+    height: 25%;;
+  }
+  .photo2{
+    display: none;
+  }
+  .container_gris{
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    
-    
-   
   }
-
-}
+  .container_QuiSuisJe_title{
+    text-align: center;
+  }
+  .Service_container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+      .Services{
+        margin: 20px;
+      }
+  }
 
 
 

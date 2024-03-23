@@ -45,7 +45,7 @@ const SkillPresta = () => {
             </p>
           </div>  <img
             src="assets/images/prestashop-logo-svgrepo-com.svg"
-            className="photo"
+            className="photo1 test"
             alt="Photo de moi "
           />
         </div>{" "}

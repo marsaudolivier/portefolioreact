@@ -42,7 +42,7 @@ const Skillreact = () => {
             </p>
           </div>   <img
             src="assets/images/react-logo-svgrepo-com.svg"
-            className="photo"
+            className="photo1 test"
             alt="Photo de moi "
           />
         </div>{" "}

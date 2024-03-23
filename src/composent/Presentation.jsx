@@ -46,8 +46,8 @@ const Presentation = () => {
             </p>
           </div>  <img
             src="assets/images/logo.svg"
-            className="photo1"
-            alt="Photo de moi "
+            className="photo1 test"
+            alt="logo"
           />
         </div>{" "}
       </div>
