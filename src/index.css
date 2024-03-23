@@ -371,3 +371,27 @@ li {
     margin: 20px;
   }
 }
+a{
+  text-decoration: none;
+  color: #ced2d2;
+}
+a:hover{
+  color: #4e3f2e;
+}
+.footer_contact a{
+  color: #ced2d2;
+  text-align: center;
+}
+.footer_contact a:hover{
+  color: #4e3f2e;
+  box-shadow: #6fc19a 0px 0px 0px;
+}
+.footer_copy{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  padding: 10px;
+
+}

@@ -4,7 +4,7 @@ const WeAre = () => {
   return (
     <>
       <div>
-        <h2 className="container_QuiSuisJe_title ">Qui suis-je?</h2>
+        <h2 className="container_QuiSuisJe_title ">Qui suis-je ?</h2>
         <div className="container_QuiSuisJe">
           <img
             src="assets/images/f355db17e39fa75da28608a4b9b5cdc5e5247e69.jpg"

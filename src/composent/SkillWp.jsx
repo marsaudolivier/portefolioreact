@@ -5,7 +5,7 @@ const SkillWp = () => {
     <>
       <div>
         <h2 className="container_QuiSuisJe_title">
-          Pourquoi choisir WordPress pour votre site web
+          Pourquoi choisir WordPress pour votre site web ?
         </h2>
         <div className="container_QuiSuisJe">
           <img
