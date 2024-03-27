@@ -120,7 +120,7 @@ const Service = () => {
         </div>{" "}
         
         <h5 className="container_QuiSuisJe_title">
-          *Conformément a l'aricle 296B du code général des impôts TVA non
+          *Conformément a l'article 296B du code général des impôts TVA non
           applicable.{" "}
         </h5>
         <h5 className="container_QuiSuisJe_title">
