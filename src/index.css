@@ -395,3 +395,14 @@ a:hover{
   padding: 10px;
 
 }
+.title {
+
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  margin: 0;
+}
+.letter {
+  font-size: 15vw;
+  display: inline-block;
+}
