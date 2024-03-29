@@ -23,7 +23,7 @@ const Foot = () => {
       <p className="footer_copy">
         {" "}
         <img src="assets/images/logo.svg" alt="logo" className="footer_logo" />
-        Ce site est la propriété intelectuelle de Mr Marsaud olivier{" "}
+        Ce site est la propriété intelectuelle de "E. I Marsaud olivier"{" "}
         <img src="assets/images/logo.svg" alt="logo" className="footer_logo" />
       </p>
     </footer>
