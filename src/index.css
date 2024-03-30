@@ -419,7 +419,13 @@ a:hover{
   cursor: pointer;
   z-index: 1000;
 }
-
 .scroll-to-top-btn:hover {
   background-color: #0056b3;
+}
+.logomenu {
+ display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20%;
+  margin: auto;
 }

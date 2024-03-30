@@ -135,6 +135,8 @@ export default function IndexPage() {
         <span className="letter">E</span>
         <span className="letter">V</span>
       </h1>
+      <img src="assets/images/logo.svg" alt="logo" className="logomenu" />
+      
       <section id="nextSection">
         <div className="box" id="box1">
           <WeAre />
