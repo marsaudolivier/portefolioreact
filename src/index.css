@@ -420,15 +420,15 @@ a:hover{
   bottom: 20px;
   right: 20px;
   border: none;
-  background-color: #6fc19a;
+  background-color: rgba(111, 193, 154, 0.2); /* Couleur avec transparence */
   color: #fff;
   padding: 10px 20px;
-  border-radius: 15px;
+  border-radius: 45px;
   cursor: pointer;
   z-index: 1000;
 }
 .scroll-to-top-btn:hover {
-  background-color: #0056b3;
+  background-color: rgba(111, 193, 154, 0.9);
 }
 .logomenu {
  display: flex;
