@@ -406,3 +406,20 @@ a:hover{
   font-size: 12vw;
   display: inline-block;
 }
+
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border: none;
+  background-color: #6fc19a;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.scroll-to-top-btn:hover {
+  background-color: #0056b3;
+}

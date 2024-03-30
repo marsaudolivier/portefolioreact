@@ -14,6 +14,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 import { useEffect } from "react";
 import { useRef } from "react";
+import ScrollToTopButton from "../composent/ScrollToTopButton";
 
 gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
 
@@ -126,6 +127,7 @@ export default function IndexPage() {
   return (
     <>
       <Header />
+      <ScrollToTopButton />
       <h1 className="title" ref={titleRef}>
         <span className="letter">M</span>
         <span className="letter">O</span>
