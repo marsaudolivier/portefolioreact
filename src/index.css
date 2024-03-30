@@ -396,15 +396,23 @@ a:hover{
 
 }
 .title {
-
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 40vh;
   margin: 0;
 }
 .letter {
-  font-size: 12vw;
+  font-size: 15vw;
   display: inline-block;
+}
+/* mediaquery */
+@media screen and (max-width: 960px) {
+  .letter {
+    font-size: 12vw;
+  }
+  .title {
+    height: 25vh;
+  }
 }
 
 .scroll-to-top-btn {
@@ -428,4 +436,5 @@ a:hover{
   justify-content: center;
   width: 20%;
   margin: auto;
+
 }
