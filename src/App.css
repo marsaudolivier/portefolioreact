@@ -2,17 +2,15 @@ body{
     background-color: #1b1b1b;
 }
 .logo{
-    margin-top: 25px;
+    margin: auto;
+    padding: 20px;
+    width: fit-content;
     width: 250px;
-}
-.navigation{
-    background-color: #333333;
-    display: flex;
 }
 h1{
     color: #6FC19A;
     text-transform: uppercase;
-    padding-left: 40px;
+    font-size: 55px;
     margin: auto;
 }
 h1 {

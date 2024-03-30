@@ -8,14 +8,12 @@ const Head = () => {
           <img src="assets/images/logo.svg" alt="logo" className="logo" />
         </a>
         <h1>Marsaud olivier développement</h1>
-      </div>
-      <div className="menu-bar">
+      </div>    
         <ul className="nav " id="nav">
           <li>
             <a href="/projets">Voir mes projets</a>
           </li>
         </ul>
-      </div>
     </nav>
   );
 };
