@@ -23,7 +23,8 @@ const Foot = () => {
       <p className="footer_copy">
         {" "}
         <img src="assets/images/logo.svg" alt="logo" className="footer_logo" />
-        Ce site est la propriété intelectuelle de "E. I Marsaud olivier"{" "}
+        Ce site est la propriété intelectuelle de "E. I Marsaud olivier"
+        <br /> SIRET de l'établissement : 92512164200019{" "}
         <img src="assets/images/logo.svg" alt="logo" className="footer_logo" />
       </p>
     </footer>
