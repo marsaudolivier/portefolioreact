@@ -3,8 +3,8 @@ import React from "react";
 const Foot = () => {
   return (
     <footer>
-      <div className="container nav">
-        <img src="assets/images/logo.svg" alt="logo" className="logo" />
+      <div className="container2 nav">
+        <img src="assets/images/logo.svg" alt="logo" className="logo3" />
         <div className="footer_contact">
           <a href="tel:0658083790">
             Par téléphone au <br /> 06.58.08.37.90

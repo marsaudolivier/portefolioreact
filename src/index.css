@@ -38,10 +38,6 @@ h5 {
 .container {
   display: flex;
 }
-.nav {
-  align-items: center;
-}
-
 .footer_copy{
   background-color: #333333;
   color: #6fc19a;
@@ -442,5 +438,18 @@ a:hover{
   .logomenu {
     width: 70%;
   }
-   
+}
+.container2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align:center;
+  background-color:#333333;
+  margin: auto;
+}
+.logo3{
+  width: 200px;
+  height: auto;
+  margin: 20px;
 }
