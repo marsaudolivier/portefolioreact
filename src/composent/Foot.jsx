@@ -10,9 +10,9 @@ const Foot = () => {
             Par téléphone au <br /> 06.58.08.37.90
           </a>
           <h4>Du lundi au vendredi de 9h à 18h</h4>
-          <a href="mailto:marsaudolivier@gmail.com?subject=Demande de contact depuis le site MODEV&body=Bonjour Olivier, ">
+          <a href="mailto:modev@marsaudolivierdev.fr?subject=Demande de contact depuis le site MODEV&body=Bonjour Olivier, ">
             Par Email : <br />
-            marsaudolivier@gmail.com
+            modev@marsaudolivierdev.fr
           </a>
         </div>
         <div className="footer_contact">
