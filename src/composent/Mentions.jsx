@@ -30,7 +30,7 @@ const Mentions = () => {
             <br />
           </p>
           <h4>HÉBERGEUR DU SITE:</h4>
-          <p>Nom de l'hébergeur : https://vercel.com/</p>
+          <p>Nom de l'hébergeur : https://o2switch.fr</p>
           <h4>PROPRIÉTÉ INTELLECTUELLE:</h4>
           <p>
             Le contenu de ce site (textes, images, vidéos, etc.) est protégé par

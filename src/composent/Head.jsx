@@ -12,6 +12,11 @@ const Head = () => {
         <ul className="nav " id="nav">
           <li>
             <a href="/projets">Voir mes projets</a>
+            
+          </li>
+          <li>
+            <a href="/partenaires">Partenaires</a>
+            
           </li>
         </ul>
     </nav>

@@ -46,8 +46,13 @@ h5 {
   align-items: center;
   text-align: center;
 }
+
 nav ul li {
   list-style: none;
+}
+nav ul  {
+  display: flex;
+  flex-direction: row;
 }
 .nav a {
   color: #6fc19a;
@@ -464,6 +469,16 @@ a:hover{
       background-color:#333333;
       margin: auto;
     }
-   
-  
+}
+.text{
+  color: #6fc19a;
+  font-size: 20px;
+}
+.phot{
+  width: 200px;
+  height: auto;
+  margin: auto;
+  border-radius: 5%;
+  box-shadow: #6fc19a 5px 0px 20px;
+
 }

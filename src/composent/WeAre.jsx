@@ -38,8 +38,8 @@ const WeAre = () => {
               pour vous accompagner à chaque étape de votre projet.   <br />  <br />N'hésitez
               pas à me contacter pour discuter de votre projet et obtenir un
               devis personnalisé. Ensemble, donnons vie à votre présence en
-              ligne et propulsons votre entreprise vers de nouveaux horizons !
-            </p>
+              ligne et propulsons votre entreprise vers de nouveaux horizons ! <br />  <br />
+           Je suis disponible pour travailler aux alentours de Mauléon (79), Cholet (49), Bressuire (49), et Les Herbiers (85).</p>
           </div>
         </div>{" "}
       </div>
