@@ -9,6 +9,7 @@ import Card from "../composent/Card";
 export default function ProjectsPage() {
   return (
     <>
+        <link rel="canonical" href="https://marsaudolivierdev.fr/projets" />
     <Header />
     <Card />
 

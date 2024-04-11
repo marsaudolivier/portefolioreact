@@ -126,6 +126,7 @@ export default function IndexPage() {
 
   return (
     <>
+    <link rel="canonical" href="https://marsaudolivierdev.fr/" />
       <Header />
       <ScrollToTopButton />
       <h1 className="title" ref={titleRef}>

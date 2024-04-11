@@ -37,7 +37,7 @@ const Service = () => {
             </div>
             <h4>Développé Sur mesure</h4>
             <ul>
-              <li>Charte graphique personnaliser</li>
+              <li>Charte graphique personnalisé</li>
               <li>Proposition de logo</li>
               <li>Domaine + hébergement pendant 12 mois</li>
               <li>Interface administrateur sur mesure</li>
@@ -66,7 +66,7 @@ const Service = () => {
               solution E-commerce
             </h4>
             <ul>
-              <li>Charte graphique personnaliser</li>
+              <li>Charte graphique personnalisé</li>
               <li>Proposition de logo</li>
               <li>Domaine & hébergement 12 mois</li>
               <li>Interface administrateur sur mesure</li>

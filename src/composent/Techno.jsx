@@ -5,7 +5,7 @@ const Techno = () => {
     <>
       <div>
         <h2 className="container_QuiSuisJe_title">
-          Ici pour vous aidé a faire le meilleurs choix
+          Ici pour vous aider à faire le meilleurs choix
         </h2>
         <div className="container_QuiSuisJe">
         <img
