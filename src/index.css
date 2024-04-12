@@ -481,3 +481,11 @@ a:hover{
   border-radius: 5%;
   box-shadow: #6fc19a 5px 0px 20px;
 }
+.text-1{
+  padding: 50px;
+  color: #ced2d2;
+  font-size: 25px;
+  text-align: center;
+  text-transform: none;
+
+}

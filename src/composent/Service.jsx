@@ -118,6 +118,9 @@ const Service = () => {
           
           
         </div>{" "}
+        <h2 className="text-1">
+        Chaque client est unique, par conséquent, les prix affichés sont indicatifs et peuvent être ajustés à la hausse ou à la baisse en fonction des besoins spécifiques. 
+        </h2>
         
         <h5 className="container_QuiSuisJe_title">
           *Conformément a l'article 296B du code général des impôts TVA non
