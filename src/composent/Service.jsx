@@ -9,7 +9,7 @@ const Service = () => {
           <div className="Services">
             <div className="Service">
               <h3>A partir de: </h3>
-              <h2>1000€*</h2>
+              <h2>800€*</h2>
             </div>
             <h4>Développé Sous WORDPRESS</h4>
             <ul>
@@ -33,7 +33,7 @@ const Service = () => {
           <div className="Services">
             <div className="Service">
               <h3>A partir de: </h3>
-              <h2>1800€*</h2>
+              <h2>1000€*</h2>
             </div>
             <h4>Développé Sur mesure</h4>
             <ul>
@@ -59,7 +59,7 @@ const Service = () => {
           <div className="Services">
             <div className="Service">
               <h3>A partir de: </h3>
-              <h2>3000€*</h2>
+              <h2>1500€*</h2>
             </div>
             <h4>
               Développé Sur mesure <br /> Version Premium <br />
