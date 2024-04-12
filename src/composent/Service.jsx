@@ -126,6 +126,9 @@ const Service = () => {
         <h5 className="container_QuiSuisJe_title">
           **Soit 30 Heures disponibles pour la maintenance de votre site Web.{" "}
         </h5>
+        <h5 className="container_QuiSuisJe_title">
+        Pour toute commande, un acompte équivalent à 50 % du montant total sera requis.{" "}
+        </h5>
       </div>
     </>
   );
