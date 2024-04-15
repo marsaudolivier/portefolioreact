@@ -502,3 +502,11 @@ a:hover{
   font-size: 50px;
   text-align: center;
 }
+@media screen and (max-width: 960px) {
+  .errror{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+  }
+}
