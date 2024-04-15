@@ -9,7 +9,7 @@ const Service = () => {
           <div className="Services">
             <div className="Service">
               <h3>A partir de: </h3>
-              <h2>800€*</h2>
+              <h2>500€*</h2>
             </div>
             <h4>Développé Sous WORDPRESS</h4>
             <ul>
