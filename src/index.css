@@ -488,3 +488,17 @@ a:hover{
   text-align: center;
   text-transform: none;
 }
+.errror{
+  display: flex;
+  width: 450px;
+  height: 450px;
+  margin: auto;
+}
+.errror_text{
+  margin-top: -55px;
+  color: #4e3f2e;
+  box-shadow: 0 0 0 0.1em #6fc19a;
+  padding: 20px;
+  font-size: 50px;
+  text-align: center;
+}

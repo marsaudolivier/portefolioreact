@@ -11,7 +11,12 @@ export default function MentionsPage() {
   return (
     <>
     <Header />
-    <h1>Ressources introuvables</h1>
+    <img
+              src="assets/images/logo.svg"
+              alt="logo"
+              className="errror"
+            />
+    <h2 className="errror_text">404 Ressources introuvables</h2>
 
 
     <Foot />
