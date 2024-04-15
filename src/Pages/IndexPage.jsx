@@ -129,13 +129,13 @@ export default function IndexPage() {
     <link rel="canonical" href="https://marsaudolivierdev.fr/" />
       <Header />
       <ScrollToTopButton />
-      <h1 className="title" ref={titleRef}>
+      <h6 className="title" ref={titleRef}>
         <span className="letter">M</span>
         <span className="letter">O</span>
         <span className="letter">D</span>
         <span className="letter">E</span>
         <span className="letter">V</span>
-      </h1>
+      </h6>
       <img src="assets/images/logo.svg" alt="logo" className="logomenu" />
       
       <section id="nextSection">

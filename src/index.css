@@ -2,7 +2,7 @@ a {
   text-decoration: none;
 }
 
-h1 {
+h1,h6 {
   color: #6fc19a;
   font-size: 50px;
   text-transform: uppercase;
