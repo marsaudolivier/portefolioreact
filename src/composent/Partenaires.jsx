@@ -8,11 +8,6 @@ const Partenaires = () => {
         <div className="container_QuiSuisJe">
          
           <p className="contact_texte">
-           <a href="https://www.beprodphotos.fr/" className="text">Photographe dans la région Pays de Loire !  <img
-            src="assets/images/beprod.png"
-            className="phot"
-            alt="Beprod"
-          /></a>
             <br />
             <br />
             </p>
