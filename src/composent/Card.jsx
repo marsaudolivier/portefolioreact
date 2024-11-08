@@ -11,6 +11,9 @@ const Card = () => {
       "_blank"
     );
   };
+  const redirectToProjectLamy = () => {
+    window.open("https://www.lamy-vol-aie.fr/", "_blank");
+  };
   // project Vparro 2
   const redirectToProject2 = () => {
     window.open("https://ecfparrotv2.vercel.app/", "_blank");
@@ -46,6 +49,26 @@ const Card = () => {
       <div className="container">
         <h2 className="section_title">Projets</h2>
         <div className="projects_container">
+          <div className="project">
+            <img
+              src="assets/images/lamy.png"
+              alt="Lamy Vol'aïe"
+              className="project_img"
+            />
+            <h3 className="project_title">Lamy Vol'aïe</h3>
+            <p className="project_description">
+              Site d'un client professionnel spécialiste de la volailles: Nous
+              sommes fiers de vous proposer des volailles élevées avec soin et
+              respect. Nos poulets et pondeuses évoluent en plein air .{" "}
+            </p>
+            <button
+              className="card_btn"
+              type="button"
+              onClick={redirectToProjectLamy}
+            >
+              voir le projet
+            </button>
+          </div>
           <div className="project">
             <img
               src="assets/images/parrot.png"
