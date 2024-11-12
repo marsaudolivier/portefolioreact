@@ -145,6 +145,7 @@ export default function IndexPage() {
         <div className="box" id="box2">
           <Presentation />
         </div>
+        
         <div className="box" id="box3">
           <Techno />
         </div>
