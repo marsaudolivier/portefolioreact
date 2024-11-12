@@ -14,6 +14,9 @@ const Card = () => {
   const redirectToProjectLamy = () => {
     window.open("https://www.lamy-vol-aie.fr/", "_blank");
   };
+  const redirectToalice = () => { 
+    window.open("https://www.gym.marsaudolivierdev.fr/index.html", "_blank");
+  };
   // project Vparro 2
   const redirectToProject2 = () => {
     window.open("https://ecfparrotv2.vercel.app/", "_blank");
@@ -65,6 +68,24 @@ const Card = () => {
               className="card_btn"
               type="button"
               onClick={redirectToProjectLamy}
+            >
+              voir le projet
+            </button>
+          </div>
+          <div className="project">
+            <img
+              src="assets/images/image.png"
+              alt="trinitaire"
+              className="project_img"
+            />
+            <h3 className="project_title">Spéctacle de gym Trinitaire mauléon</h3>
+            <p className="project_description">
+              Site du spéctacle de gym Trinitaire mauléon: Thème alice au pays des merveilles
+            </p>
+            <button
+              className="card_btn"
+              type="button"
+              onClick={redirectToalice}
             >
               voir le projet
             </button>
